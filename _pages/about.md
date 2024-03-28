@@ -12,7 +12,7 @@ I am a postdoc fellow in statistics mentored by [Professor Bei Jiang](https://si
 Education
 ======
 
-* Ph.D in statistics at the University of Alberta, supervised by [Professor Yaozhong Hu] (https://sites.ualberta.ca/~yaozhong/).
+* Ph.D in statistics at the University of Alberta, supervised by [Professor Yaozhong Hu](https://sites.ualberta.ca/~yaozhong/).
 
 * MS in mathematics at Kansas University, supervised by [Professor Yaozhong Hu](https://sites.ualberta.ca/~yaozhong/).
 
