@@ -15,8 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-List of Publications
-======
+
 
 * Ph.D in statistics at the University of Alberta, supervised by [Professor Yaozhong Hu](https://sites.ualberta.ca/~yaozhong/).
 
