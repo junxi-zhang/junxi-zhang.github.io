@@ -14,3 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+List of Publications
+======
+
+* Ph.D in statistics at the University of Alberta, supervised by [Professor Yaozhong Hu](https://sites.ualberta.ca/~yaozhong/).
+
+* MS in mathematics at Kansas University, supervised by [Professor Yaozhong Hu](https://sites.ualberta.ca/~yaozhong/).
+
+* BS in statistics at Huazhong University of Science and Technology.
