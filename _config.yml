@@ -12,7 +12,7 @@ title                    : "Junxi Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Junxi Zhang"
 description              : &description "A postdoc in statistics"
-url                      : https://junxi-zhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://junxi-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junxi-zhang/junxi-zhang.github.io"
 
