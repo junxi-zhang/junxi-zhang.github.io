@@ -1,264 +1,245 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Useful Guide"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## About Concordia University
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* [Concordia University]()
+* [Department of Mathematics & Statistics](https://www.concordia.ca/artsci/math-stats.html)
+* [Programs offered by the Department of Mathematics & Statistics](https://www.concordia.ca/artsci/math-stats/programs.html)
+* Advising and Math helps:
+  * [Math help center](https://www.concordia.ca/artsci/math-stats/services/math-help-centre.html)
+  * [Student advising](https://www.concordia.ca/artsci/math-stats/services/advising.html)
+  * [Awards and Scholarships](https://www.concordia.ca/artsci/math-stats/programs/awards-scholarships.html)
+  * [Department events and seminars](https://www.concordia.ca/artsci/math-stats/events.html)
 
-## Tips and hints
+%## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+%* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+%* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find %the last version Github built with Jekyll. 
+%  * Green check: successful build
+%  * Orange circle: building
+%  * Red X: error
+%  * No icon: not built
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+%## Resources
+% * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+% * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-## MathJax 
-
-Support for MathJax Version 3.0 is included in the template:
+%## MathJax 
 
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
+%Support for MathJax Version 3.0 is included in the template:
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+%$$
+%\displaylines{
+%\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
+%\nabla \cdot B=0 \\\
+%\nabla \times E= -\partial_tB \\\
+%\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
+%}
+%$$
 
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+%The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be %used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
-## Markdown guide
+%**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping %characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+%## Markdown guide
 
-### Header three
+%Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some %differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown %Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
 
-#### Header four
+%### Header three
 
-##### Header five
+%#### Header four
 
-###### Header six
+%##### Header five
 
-## Blockquotes
+%###### Header six
 
-Single line blockquote:
+%## Blockquotes
 
-> Quotes are cool.
+%Single line blockquote:
 
-## Tables
+%> Quotes are cool.
 
-### Table 1
+%## Tables
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+%### Table 1
 
-### Table 2
+%| Entry            | Item   |                                                              |
+%| --------         | ------ | ------------------------------------------------------------ |
+%| [John Doe](#)    | 2016   | Description of the item in the list                          |
+%| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+%| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+%### Table 2
 
-## Definition Lists
+%| Header1 | Header2 | Header3 |
+%|:--------|:-------:|--------:|
+%| cell1   | cell2   | cell3   |
+%| cell4   | ce
+%ll5   | cell6   |
+%|-----------------------------|
+%| cell1   | cell2   | cell3   |
+%| cell4   | cell5   | cell6   |
+%|=============================|
+%| Foot1   | Foot2   | Foot3   |
 
-Definition List Title
-:   Definition list division.
+%## Definition Lists
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+%Definition List Title
+%:   Definition list division.
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+%Startup
+%:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable %business model.
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+%#dowork
+%:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, %to motivating your friends.
 
-## Unordered Lists (Nested)
+%Do It Live
+%:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+%## Unordered Lists (Nested)
 
-## Ordered List (Nested)
+%  * List item one 
+%      * List item one 
+%         * List item one
+%          * List item two
+%          * List item three
+%          * List item four
+%      * List item two
+%      * List item three
+%      * List item four
+%  * List item two
+%  * List item three
+%  * List item four
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
 
-## Buttons
 
-Make any link standout more when applying the `.btn` class.
 
-## Notices
 
-Basic notices or call-outs are supported using the following syntax:
+%## Notices
 
-```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-```
+%Basic notices or call-outs are supported using the following syntax:
 
-which wil render as:
+%```markdown
+%**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+%{: .notice}
+%```
 
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
+%which wil render as:
 
-### Footnotes
+%**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+%{: .notice}
 
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
+%### Footnotes
 
-```markdown
-This is the regular text.[^1] This is more regular text.[^note]
+%Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, %as well as text as long as the values are unique.[^note]
 
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
-```
+%```markdown
+%This is the regular text.[^1] This is more regular text.[^note]
 
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
+%[^1]: This is the footnote itself.
+%[^note]: This is another footnote.
+%```
 
-## HTML Tags
+%[^1]: Such as this footnote.
+%[^note]: When using text for footnotes markers, no spaces are permitted in the name.
 
-### Address Tag
+%## HTML Tags
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+%### Address Tag
 
-### Anchor Tag (aka. Link)
+%<address>
+%  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+%</address>
 
-This is an example of a [link](http://github.com "Github").
+%### Anchor Tag (aka. Link)
 
-### Abbreviation Tag
+%This is an example of a [link](http://github.com "Github").
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+%### Abbreviation Tag
 
-*[CSS]: Cascading Style Sheets
+%The abbreviation CSS stands for "Cascading Style Sheets".
 
-### Cite Tag
+%*[CSS]: Cascading Style Sheets
 
-"Code is poetry." ---<cite>Automattic</cite>
+%### Cite Tag
 
-### Code Tag
+%"Code is poetry." ---<cite>Automattic</cite>
 
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+%### Code Tag
 
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
+%You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
-```python
-print('Hello World!')
-```
+%You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
 
-or R:
+%```python
+%print('Hello World!')
+%```
 
-```R
-print("Hello World!", quote = FALSE)
-```
+%or R:
+%
+%```R
+%print("Hello World!", quote = FALSE)
+%```
 
-### Strike Tag
+%### Strike Tag
 
-This tag will let you <strike>strikeout text</strike>.
+%This tag will let you <strike>strikeout text</strike>.
 
-### Emphasize Tag
+%### Emphasize Tag
 
-The emphasize tag should _italicize_ text.
+%The emphasize tag should _italicize_ text.
 
-### Insert Tag
+%### Insert Tag
 
-This tag should denote <ins>inserted</ins> text.
+%This tag should denote <ins>inserted</ins> text.
 
-### Keyboard Tag
+%### Keyboard Tag
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+%This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
 
-### Preformatted Tag
+%### Preformatted Tag
 
-This tag styles large blocks of code.
+%This tag styles large blocks of code.
 
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
+%<pre>
+%.post-title {
+%  margin: 0 0 5px;
+%  font-weight: bold;
+%  font-size: 38px;
+%  line-height: 1.2;
+%  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find %out how it overflows;
+%}
+%</pre>
 
-### Quote Tag
+%### Quote Tag
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+%<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
 
-### Strong Tag
+%### Strong Tag
 
-This tag shows **bold text**.
+%This tag shows **bold text**.
 
-### Subscript Tag
+%### Subscript Tag
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+%Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
 
-### Superscript Tag
+%### Superscript Tag
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+%Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
 
-### Variable Tag
+%### Variable Tag
 
-This allows you to denote <var>variables</var>.
+%This allows you to denote <var>variables</var>.
 
-***
-**Footnotes**
+%***
+%**Footnotes**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+%The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown %Footnotes</a>.
 
