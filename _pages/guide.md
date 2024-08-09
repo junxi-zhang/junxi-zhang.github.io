@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /guide/
 title: "Useful Guide"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /guide.html
 ---
 
 ## About Department of Mathematics & Statistics at Concordia University
@@ -27,3 +27,4 @@ redirect_from:
 * [Accessibility and Accommodation for Students](https://www.concordia.ca/about/policies/spotlight/policy-on-accessibility-and-accommodation-for-students-and-employees-prvpa-14.html)
 * [Sexual Assault Resource Centre (SARC)](https://www.concordia.ca/conduct/sexual-assault.html), provides confidential, survivor-centered and trauma-informed support services to students, staff and faculty, regardless of when, or where, the sexual violence occurred.
 * [Scholarships & funding](https://www.concordia.ca/students/financial/scholarships-funding.html), provides information of scholarships, bursaries, and awards that support students at Concordia University.
+
