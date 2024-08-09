@@ -1,10 +1,8 @@
 ---
-permalink: /guide/
-title: "Useful Guide"
+layout: archive
+title: "Guides"
+permalink: guide/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /guide.html
 ---
 
 ## About Department of Mathematics & Statistics at Concordia University
