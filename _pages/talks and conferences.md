@@ -1,12 +1,9 @@
 ---
-permalink: /markdown/
-title: "Useful Guide"
+layout: archive
+title: "Talks and Conferences"
+permalink: talks and conferences/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
-
 ## About Concordia University
 
 * [Concordia University]()
