@@ -11,6 +11,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Teaching at Concordia University
+=====
+
+* 2024 Fall: MAST 387 Data Science Lab
+
+
 Teaching at University of Alberta
 =====
 
