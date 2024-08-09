@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and Conferences"
-permalink: talks and conferences/
+permalink: conferences/
 author_profile: true
 ---
 * 2024-06-23 to 2024-06-28 New Trends and Challenges in Stochastic Differential Games (24w5277), Kelowna, Canada.
