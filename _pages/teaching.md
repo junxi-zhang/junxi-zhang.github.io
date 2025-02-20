@@ -14,6 +14,8 @@ author_profile: true
 Teaching at Concordia University
 =====
 
+* 2025 Winter: STAT 460/ MAST 677/ MAST 881 Time series and forecasting
+* 2025 Winter: MACF 491/ STAT 497/ MAST 679/ MAST 881 Topics in Mathematics & Statistics: Reinforcement Learning
 * 2024 Fall: MAST 387 Data Science Lab
 
 
