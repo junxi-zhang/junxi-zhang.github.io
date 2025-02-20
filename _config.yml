@@ -27,12 +27,12 @@ author:
   bio              : "Assistant Professor in statistics"
   location         : "Montreal, Canada"
   employer         : "Concordia University"
-  uri              : # URL
+  uri              : "https://www.concordia.ca/faculty/junxi-zhang.html"
   email            : "junxi.zhang@concordia.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.ca/citations?user=dz6xH8EAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.ca/citations?user=JsmvYPQAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-5318-2045"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
