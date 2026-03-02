@@ -19,7 +19,7 @@ author_profile: true
 Equal distribution is marked by *
 
 
-* **Junxi Zhang**, Shui Feng, and Yaozhong Hu. (2026). “Large Parameter Asymptotic Analysis for Homogeneous Normalized Random Measures with Independent Increments”. *The Canadian Journal of Statistics|La revue canadienne de statistique*. To appear.
+* **Junxi Zhang**, Shui Feng, and Yaozhong Hu. (2026). “Large Parameter Asymptotic Analysis for Homogeneous Normalized Random Measures with Independent Increments”. *The Canadian Journal of Statistics*. To appear.
 
 * **Junxi Zhang** and Yaozhong Hu. (2025). &quot;[Large Sample Asymptotic Analysis for Normalized Random Measures with Independent Increments](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Large-Sample-Asymptotic-Analysis-for-Normalized-Random-Measures-with-Independent/10.1214/23-BA1411.full).&quot; *Bayesian Analysis*. 20(2): 547-572 (June 2025). DOI: 10.1214/23-BA1411
 
