@@ -18,11 +18,14 @@ author_profile: true
 
 Equal distribution is marked by *
 
+* **Junxi Zhang**, Shui Feng, and Yaozhong Hu. (2026). "Large Parameter Asymptotic Analysis for Homogeneous Normalized Random Measures with Independent Increments". *The Canadian Journal of Statistics|La revue canadienne de statistique*. To appear.
+
+* **Junxi Zhang** and Yaozhong Hu. (2025). &quot;[Large Sample Asymptotic Analysis for Normalized Random Measures with Independent Increments](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Large-Sample-Asymptotic-Analysis-for-Normalized-Random-Measures-with-Independent/10.1214/23-BA1411.full).&quot; *Bayesian Analysis*. 20(2): 547-572 (June 2025). DOI: 10.1214/23-BA1411
+
 * Hongni Wang\*, **Junxi Zhang**\*, Na Li, Linglong Kong, Bei Jiang, Xiaodong Yan (2025). “Advancing Fairness in Precision Medicine: A Universal Framework for Optimal Treatment Estimation in Censored Data”. *The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*.
   
 * Lei Ding, Yang Hu, Nicole Denier, Enze Shi, **Junxi Zhang**, Qirui Hu, Karen D. Hughes, Linglong Kong, Bei Jiang (2024). “Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach”. *The 38th Annual Conference on Neural Information Processing Systems (38th NeurIPS 2024)*.
 
-* **Junxi Zhang** and Yaozhong Hu. (2024). &quot;[Large Sample Asymptotic Analysis for Normalized Random Measures with Independent Increments](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Large-Sample-Asymptotic-Analysis-for-Normalized-Random-Measures-with-Independent/10.1214/23-BA1411.full).&quot; *Bayesian Analysis*. To appear. DOI:10.1214/23-BA1411
 
 * Zichen (Vincent) Zhang\*, Johannes Kirschner\*, **Junxi Zhang**\*, Francesco Zanini\*, Alex Ayoub\*, Masood Dehghan\*, Dale Schuurmans\*. (2023) &quot;[Managing Temporal Resolution in Continuous Value Estimation: A Fundamental Trade-off](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c4d66eae503694424123b93ac0fbaf17-Abstract-Conference.html).&quot;   *The 37th Annual Conference on Neural Information Processing Systems (37th NeurIPS 2023)*.
 
